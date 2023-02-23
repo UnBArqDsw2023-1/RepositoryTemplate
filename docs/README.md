@@ -23,8 +23,7 @@ Demais diretrizes constam no Moodle.
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
-Contextualize
-Use referências, links, e outros materiais utilizados como fonte.
+Contextualize, usando referências, links, e outros materiais como fontes.
 
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
 Adicione 2 ou mais screenshots em termos de artefatos da Primeira Entrega.
@@ -45,8 +44,10 @@ Adicione 2 ou mais screenshots em termos de artefatos da Quarta Entrega.
 **Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: xxxxxx<br>
 
 ## Há algo a ser executado?
+
 ( ) SIM
 ( ) NÃO
+
 Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
 
 ## Informações Complementares 
