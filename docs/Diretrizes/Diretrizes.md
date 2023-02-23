@@ -1,9 +1,14 @@
-# Diretrizes Gerais Obrigatórias
+# Diretrizes Gerais & Complementares Obrigatórias
+
+Seguem as principais diretrizes para elaboração dos projetos na disciplina.
+
+# Diretrizes Gerais
 
 Deve-se organizar a Wiki e o repositório do projeto conforme consta no RepositoryTemplate.
 Por exemplo, para o caso da Primeira Entrega:
 
 1. Desenho de Software (Base)
+
 A Wiki ou GitPages do Projeto deve conter um tópico dedicado ao Módulo Desenho de Software (Base), com dois subtópicos principais, conforme 1.1 e 1.2, e subtópico de cunho complementar, conforme 1.3.
 
 # 1.1. Módulo Projeto Não Orientado a Abordagens Específicas
