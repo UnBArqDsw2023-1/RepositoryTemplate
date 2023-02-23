@@ -13,7 +13,7 @@ A Wiki ou GitPages do Projeto deve conter um tópico dedicado ao Módulo Desenho
 
 # 1.1. Módulo Projeto Não Orientado a Abordagens Específicas
 
-Escolher uma aplicação de interesse, já desenvolvida, e realizar Design Sprint para levantamento dos requisitos de uma possível evolução dessa aplicação.
+Usando a lista de projetos indicados por grupo para o período letivo vigente (vide final dessas Diretrizes), sendo uma lista de projetos já existentes e implementados, realizar Design Sprint para levantamento dos requisitos de uma possível evolução desse software.
 
 Foco_1: Técnicas de Elicitação e Artefatos Independentes de Metodologia
 
@@ -27,6 +27,7 @@ Demais orientações disponíveis nas Diretrizes (vide Moodle).
 
 
 # 1.2. Módulo Processos/Metodologias/Abordagens
+
 Foco_2: Metodologia (Modelagem BPMN & Escolhas Metodológicas)
 
 Entrega Mínina: Modelagem BPMN, evidenciando algumas escolhas metodológicas utilizadas pela equipe nessa primeira entrega.
@@ -66,8 +67,9 @@ Sendo assim, na Wiki do Projeto:
 ## 1. Desenho de Software (Base)
 
 - 1.1. Módulo Projeto Não Orientado a Abordagens Específicas
+
   - Design Sprint
-    ◦ Histórico de Versões, com rastro para os autores que realizaram cada evolução dessa documentação.
+    - Histórico de Versões, com rastro para os autores que realizaram cada evolução dessa documentação.
     - Introdução
     - Detalhamento Metodológico
       - PrimeiroDia
@@ -85,8 +87,9 @@ OBS_02: Para ir além da Entrega Mínima, deve-se investir em QUANTIDADE DE ARTE
 OBS_03: Deve-se manter página única para Design Sprint ou distribuir em várias páginas com elos navegáveis? Deve-se manter página única, com tudo revelado nessa página (Histórico de Versão, Introdução, Detalhamento de Cada Dia da Design Sprint, Artefatos Produzidos, Conclusão e Referências).
 
 - 1.2. Módulo Processos/Metodologias/Abordagens
+
   - Modelagem BPMN
-    ◦ Histórico de Versões, com rastro para os autores que realizaram cada evolução dessa documentação.
+    - Histórico de Versões, com rastro para os autores que realizaram cada evolução dessa documentação.
     - Introdução
     - Detalhamento Metodológico
     - Modelagem BPMN & Justificativas
@@ -94,6 +97,7 @@ OBS_03: Deve-se manter página única para Design Sprint ou distribuir em vária
     - Referências
 
 - 1.3. Participações - Base
+
 Breve relato sobre as participações/contribuições de cada membro à entrega. 
 
 Módulo Projeto Não Orientado a Abordagens Específicas
@@ -110,6 +114,7 @@ Módulo Processos/Metodologias/Abordagens
   
 
 # Diretrizes Complementares
+
 Se o artefato envolver implementação, documentar essa implementação, com um pequeno trecho de código (com elo para o código de fato) que permita aferir a pertinência e a qualidade dessa implementação bem como a participação dos evolvidos.
 
 Em caso de implementações mais densas de commits, por gentileza, permitir – usando um link – acesso e navegação direta para o código, no qual constam os esforços dessas programações.
