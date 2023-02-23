@@ -46,6 +46,7 @@ Adicione 2 ou mais screenshots em termos de artefatos da Quarta Entrega.
 ## Há algo a ser executado?
 
 ( ) SIM
+
 ( ) NÃO
 
 Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
